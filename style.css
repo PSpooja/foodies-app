@@ -1,0 +1,120 @@
+/* .header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    
+}
+
+.logo{
+    width: 80px;
+}
+
+.nav-items > ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.nav-items > ul > li {
+    margin: 12px;
+    font-size: 18px;
+}
+
+.rest-card{
+    margin: 10px;
+    padding: 5px;
+    width: 200px;  
+}
+
+.rest-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.rest-container :hover{
+    cursor: pointer;
+    border: 1px solid black;
+}
+
+.rest-card > ul {
+    display: flex;
+    list-style-type: none;
+}
+.rest-card > ul > li {
+    margin: 5px;
+}
+.rest-logo{
+    width: 100%;
+}
+
+.filter-btn{
+    margin: 10px;
+    cursor: pointer;
+}
+
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shimmer-card{
+    margin: 10px;
+    width: 300px;  
+    height: 500px;
+    background-color: #f0f0f0;
+}
+
+.login{
+    padding: 0 5px;
+    background-color: #f0f0f0;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.filter{
+    display: flex;
+}
+.search{
+    margin: 10px;
+}
+
+
+.restaurant-menu{
+    width: 100%; 
+    background: white; 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.restaurant-menu-card{
+    height: 300px;
+    width: 500px;
+    border-radius: 20px;
+    border: 1px solid rgba(2, 6, 12, 0.15);
+    background: white;
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 8px 16px 0px;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+
+.restaurantInfo{
+   display: flex;
+   justify-content: center;
+}
+
+.restaurant-menu-card li{
+    float: left;
+    list-style-type: none;
+    margin-right: 20px;
+    
+}
+
+.highlighted-items{
+    font-weight: 600;
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
